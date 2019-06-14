@@ -1,3 +1,12 @@
+Resouces has taken from:
+1. https://www.linkedin.com/learning/react-js-building-an-interface-2
+2. https://github.com/planetoftheweb/reactinterface2
+
+Libraries:
+----------
+1. BootStrap, Jquery, Popper.js, Lodash, moment.js Installation
+npm i -s bootstrap react-icons lodash jquery popper.js moment react-moment
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
