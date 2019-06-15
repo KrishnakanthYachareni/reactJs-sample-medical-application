@@ -11,10 +11,12 @@ class App extends Component {
     super();
     this.state = {
       myAppointments: [],
+      formDisplay: false,
       lastIndex: 0
     };
     // this keyword is not applicable in deleteAppointment function if we don't mention this
     this.deleteAppointment = this.deleteAppointment.bind(this);
+    this.toggleForm = this.toggleForm.bind(this);
   }
 
   deleteAppointment(apt) {
@@ -24,6 +26,12 @@ class App extends Component {
 
     this.setState({
       myAppointments: tempApts
+    });
+  }
+
+  toggleForm() {
+    this.setState({
+      formDisplay: !this.state.formDisplay
     });
   }
 
@@ -50,7 +58,10 @@ class App extends Component {
           <div className="row">
             <div className="col-md-12 bg-white">
               <div className="container">
-                <AddAppointments />
+                <AddAppointments
+                  formDisplay={this.state.formDisplay}
+                  toggleForm={this.toggleForm}
+                />
                 <ListAppointments
                   appointments={this.state.myAppointments}
                   deleteAppointment={this.deleteAppointment}
