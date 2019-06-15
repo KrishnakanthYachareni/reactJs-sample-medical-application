@@ -1,6 +1,5 @@
 Resouces has taken from:
 1. https://www.linkedin.com/learning/react-js-building-an-interface-2
-2. https://github.com/planetoftheweb/reactinterface2
 
 Libraries:
 ----------
