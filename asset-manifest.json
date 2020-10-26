@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/reactJs-sample-medical-application/static/css/main.dcd4d52f.chunk.css",
+    "main.js": "/reactJs-sample-medical-application/static/js/main.cfa078c3.chunk.js",
+    "main.js.map": "/reactJs-sample-medical-application/static/js/main.cfa078c3.chunk.js.map",
+    "runtime~main.js": "/reactJs-sample-medical-application/static/js/runtime~main.49fdad4c.js",
+    "runtime~main.js.map": "/reactJs-sample-medical-application/static/js/runtime~main.49fdad4c.js.map",
+    "static/css/2.6414bb7b.chunk.css": "/reactJs-sample-medical-application/static/css/2.6414bb7b.chunk.css",
+    "static/js/2.9a912f4b.chunk.js": "/reactJs-sample-medical-application/static/js/2.9a912f4b.chunk.js",
+    "static/js/2.9a912f4b.chunk.js.map": "/reactJs-sample-medical-application/static/js/2.9a912f4b.chunk.js.map",
+    "index.html": "/reactJs-sample-medical-application/index.html",
+    "precache-manifest.2fc5c456a120135fd22e8aa66394ff10.js": "/reactJs-sample-medical-application/precache-manifest.2fc5c456a120135fd22e8aa66394ff10.js",
+    "service-worker.js": "/reactJs-sample-medical-application/service-worker.js",
+    "static/css/2.6414bb7b.chunk.css.map": "/reactJs-sample-medical-application/static/css/2.6414bb7b.chunk.css.map",
+    "static/css/main.dcd4d52f.chunk.css.map": "/reactJs-sample-medical-application/static/css/main.dcd4d52f.chunk.css.map"
+  }
+}
